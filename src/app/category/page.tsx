@@ -12,7 +12,7 @@ export default function Detail(){
 
             <div className="flex ">
             <DetailNavbar/>
-            {/* <CategoryHero/> */}
+            /* <CategoryHero/> */
             <Category/>
             </div>
         </section>
