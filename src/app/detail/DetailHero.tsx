@@ -30,8 +30,8 @@ export default function DetailHero() {
           </div>
         </div>
         <p className="text-[#596780] leading-10 text-xl pt-6">
-          NISMO has become the embodiment of Nissan's outstanding performance,
-          inspires by the most unforgiving proving ground, the "race track"
+          NISMO has become the embodiment of Nissans outstanding performance
+          inspires by the most unforgiving proving ground the "race track"
         </p>
 
         <div className="w-[444px] h-[72px] flex my-6 gap-x-5">
